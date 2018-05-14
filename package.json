@@ -1,0 +1,23 @@
+{
+  "name": "javanodeserver",
+  "version": "1.0.0",
+  "description": "WebAPI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chitrasen1984/nodejsjava.git"
+  },
+  "keywords": [
+    "nodejs",
+    "java"
+  ],
+  "author": "Chitrasen Prabhakar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chitrasen1984/nodejsjava/issues"
+  },
+  "homepage": "https://github.com/Chitrasen1984/nodejsjava#readme"
+}
